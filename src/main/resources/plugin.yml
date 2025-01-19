@@ -1,4 +1,10 @@
 name: BallonsPlus
-version: '1.0-SNAPSHOT'
-main: be.shark_zekrom.ballonsPlus
+version: '1.9.0'
+main: be.shark_zekrom.Main
 api-version: '1.18'
+description: Create a balloon
+commands:
+  balloons+:
+    aliases:
+      - balloons
+    description: balloons
