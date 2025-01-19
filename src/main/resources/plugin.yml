@@ -1,0 +1,4 @@
+name: BallonsPlus
+version: '1.0-SNAPSHOT'
+main: be.shark_zekrom.ballonsPlus
+api-version: '1.18'
